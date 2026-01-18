@@ -12,6 +12,8 @@ Adjust your terminal size, select a nice character and have fun listening to you
 
 It can run in any terminal, even bare core TTY, so it's the best choice to use wiht SBC like the RPi0.
 
+Demo: [Youtube Video](https://www.youtube.com/watch?v=4xLkTYtUw6U)
+
 ## Features
 
 - **10 unique visualization modes** - from classic frequency bars to particle systems
